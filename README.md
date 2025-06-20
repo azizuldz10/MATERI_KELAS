@@ -1,7 +1,7 @@
 # MATERI_KELAS
 REPO PEMBELAJARAN
 
-
+```mermaid
 graph TD
     START[🎯 Mulai Karir Red Team] --> FOUNDATION[📚 Membangun Fondasi]
     
@@ -89,3 +89,4 @@ graph TD
     style ADVANCED fill:#9b59b6
     style EXPERT fill:#e67e22
     style LEADERSHIP fill:#34495e
+```
